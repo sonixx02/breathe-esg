@@ -1,0 +1,7 @@
+trip_id,employee_id,category,date,origin,destination,distance_km,cabin_class,nights,hotel_name,amount,currency
+TRP-1001,EMP-018,flight,2024-03-10,BOM,LHR,7200,economy,,,1240,USD
+TRP-1001,EMP-018,hotel,2024-03-11,London,,,,3,Marriott London,890,GBP
+TRP-1001,EMP-018,ground,2024-03-14,London Heathrow,Client Office,45,,,,,38,GBP
+TRP-1002,EMP-009,flight,2024-03-14,BOM,JFK,,business,,,2100,USD
+TRP-1003,EMP-042,flight,2024-04-01,BOM,XYZ,,economy,,,500,USD
+TRP-1004,EMP-011,hotel,2024-04-05,Chennai,,,,,Taj Coromandel,150,USD

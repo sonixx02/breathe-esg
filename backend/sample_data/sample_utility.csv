@@ -1,0 +1,7 @@
+meter_id,site_name,billing_start,billing_end,consumption,uom,tariff,cost,currency
+MTR-001,Mumbai HQ,2024-01-15,2024-02-14,"48.200,00",kWh,HT-Commercial,385600,INR
+MTR-001,Mumbai HQ,2024-02-15,2024-03-16,"51,800.50",kWh,HT-Commercial,414400,INR
+MTR-002,Pune Office,2024-01-01,2024-01-31,12500000,Wh,LT-Commercial,112500,INR
+MTR-003,Chennai Plant,2024-02-01,2024-02-28,520,MWh,HT-Industrial,4680000,INR
+MTR-001,Mumbai HQ,2024-03-17,2024-04-15,498000,kWh,HT-Commercial,3984000,INR
+MTR-004,Delhi Warehouse,2024-01-01,,8500,kWh,LT-Commercial,76500,INR
